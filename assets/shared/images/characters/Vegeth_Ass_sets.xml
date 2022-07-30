@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vegeth_Ass_Sets.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_vegeto0000" x="5" y="5" width="295" height="601" frameX="-8" frameY="-7" frameWidth="307" frameHeight="608"/>
+	<SubTexture name="Down_vegeto0001" x="305" y="5" width="301" height="604" frameX="-3" frameY="-4" frameWidth="307" frameHeight="608"/>
+	<SubTexture name="Down_vegeto0002" x="611" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0003" x="923" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0004" x="1235" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0005" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0006" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0007" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0008" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0009" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0010" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0011" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0012" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0013" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0014" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0015" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0016" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0017" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0018" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0019" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0020" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0021" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0022" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0023" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0024" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0025" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0026" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0027" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0028" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Down_vegeto0029" x="1547" y="5" width="307" height="608"/>
+	<SubTexture name="Idle_vegeto0000" x="1859" y="5" width="360" height="611" frameX="-8" frameY="-3" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0001" x="1859" y="5" width="360" height="611" frameX="-8" frameY="-3" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0002" x="2224" y="5" width="358" height="612" frameX="-8" frameY="-2" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0003" x="2224" y="5" width="358" height="612" frameX="-8" frameY="-2" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0004" x="2587" y="5" width="359" height="614" frameX="-6" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0005" x="2587" y="5" width="359" height="614" frameX="-6" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0006" x="2951" y="5" width="362" height="614" frameX="-2" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0007" x="2951" y="5" width="362" height="614" frameX="-2" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0008" x="3318" y="5" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0009" x="3686" y="5" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0010" x="5" y="624" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0011" x="5" y="624" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0012" x="5" y="624" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Idle_vegeto0013" x="5" y="624" width="363" height="614" frameX="0" frameY="0" frameWidth="368" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0000" x="373" y="624" width="327" height="613" frameX="0" frameY="-1" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0001" x="705" y="624" width="325" height="614" frameX="-3" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0002" x="1035" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0003" x="1365" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0004" x="1695" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0005" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0006" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0007" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0008" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0009" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0010" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0011" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0012" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0013" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0014" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0015" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0016" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0017" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0018" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0019" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0020" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0021" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0022" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0023" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0024" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0025" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0026" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0027" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0028" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Left_vegeto0029" x="2025" y="624" width="325" height="614" frameX="-4" frameY="0" frameWidth="329" frameHeight="614"/>
+	<SubTexture name="Right_vegeto0000" x="2355" y="624" width="304" height="608" frameX="-1" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0001" x="2664" y="624" width="299" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0002" x="2968" y="624" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0003" x="3265" y="624" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0004" x="3562" y="624" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0005" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0006" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0007" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0008" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0009" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0010" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0011" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0012" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0013" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0014" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0015" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0016" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0017" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0018" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0019" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0020" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0021" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0022" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0023" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0024" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0025" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0026" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0027" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0028" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Right_vegeto0029" x="5" y="1243" width="292" height="608" frameX="0" frameY="0" frameWidth="305" frameHeight="608"/>
+	<SubTexture name="Up_vegeto0000" x="302" y="1243" width="330" height="620"/>
+	<SubTexture name="Up_vegeto0001" x="637" y="1243" width="327" height="617" frameX="-3" frameY="-3" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0002" x="969" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0003" x="1297" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0004" x="1625" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0005" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0006" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0007" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0008" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0009" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0010" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0011" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0012" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0013" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0014" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0015" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0016" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0017" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0018" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0019" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0020" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0021" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0022" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0023" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0024" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0025" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0026" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0027" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0028" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+	<SubTexture name="Up_vegeto0029" x="1953" y="1243" width="323" height="616" frameX="-7" frameY="-4" frameWidth="330" frameHeight="620"/>
+</TextureAtlas>
